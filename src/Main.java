@@ -12,5 +12,4 @@ public class Main {
         else return "12000 VND";
     }
 
-
 }
