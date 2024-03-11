@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9894a2d1-48be-427f-ae9e-12fa1cc94145" name="Changes" comment="done w3">
+      <change afterPath="$PROJECT_DIR$/src/TestMain2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,7 +49,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.TestMain">
+  <component name="RunManager" selected="JUnit.TestMain2">
     <configuration name="TestHRM" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kiemthuchucnang" />
       <option name="PACKAGE_NAME" value="" />
@@ -77,6 +78,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestMain2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kiemthuchucnang" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestMain2" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="kiemthuchucnang" />
       <method v="2">
@@ -92,6 +102,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.TestMain2" />
         <item itemvalue="JUnit.TestMain" />
         <item itemvalue="JUnit.TestHRM.test1" />
         <item itemvalue="JUnit.TestHRM" />
@@ -114,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1710150570254</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="done w3">
+      <created>1710150687863</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1710150687863</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
